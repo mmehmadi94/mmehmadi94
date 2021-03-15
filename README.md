@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmehmadi94
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning AI for business 
-- 💞️ I’m looking to collaborate on data analysis projects using Python
+- 👀 I’m interested in **Data Science**
+- 🌱 I’m currently learning **AI for business 
+- 💞️ I’m looking to collaborate on **data analysis projects using Python
 - 📫  you can reach me on mmehmadi94@gmail.com
